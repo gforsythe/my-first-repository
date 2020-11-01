@@ -1,2 +1,2 @@
 # README #
-git commit -m 'Add first project files'
+git commit -m 'this is my first GitHub Repository!'
